@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "name": "Narciso Rodriguez",
+    "caption": "Narciso Rodriguez All of Me Intense Eau de Parfum Intense 90ml",
+    "price": "11,140",
+    "description": "All of Me Eau de Parfum Intense is the bold new perfume for women by Narciso Rodriguez. A scent for the assertive woman who embraces every nuance of her being with equal ardor — authentically and unapologetically. ",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F4%2F3423222108281_1_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F4%2F3423222108281_3_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F4%2F3423222108281_7_1.webp&w=1080&q=75"
+    ],
+    "reviews": [
+      {
+        "name": "Aarav Sharma",
+        "rating": 5,
+        "comment": "This perfume has an enchanting fragrance that lasts all day. The perfect blend of floral and woody notes makes it my go-to scent!"
+      },
+      {
+        "name": "Ishita Verma",
+        "rating": 4,
+        "comment": "A mesmerizing scent that feels both refreshing and sophisticated. Ideal for both casual outings and special occasions!"
+      },
+      {
+        "name": "Rohan Malhotra",
+        "rating": 3,
+        "comment": "The fragrance is nice, but it fades quicker than expected. Works great for short meetups, but not an all-day wear."
+      },
+      {
+        "name": "Neha Iyer",
+        "rating": 5,
+        "comment": "Absolutely in love with this perfume! The jasmine and sandalwood notes blend perfectly, giving a luxurious feel."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lacoste",
+    "caption": "Lacoste L.12.12 Rose Eau Intense Eau de Toilette 100ml",
+    "price": "6,300",
+    "description": "Feel the addictive freshness of L.12.12 Rose Eau Intense. This intensely fresh fragrance for women encapsulates the brightness of white tea, rose and cotton flowers highlighted by a warm accord composed of solar musk and sandalwood. ",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F3%2F3386460149266_01.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F3%2F3386460149266_02.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F3%2F3386460149266_04.webp&w=1080&q=75"
+    ],
+    "reviews": [
+      {
+        "name": "Kabir Mehta",
+        "rating": 4,
+        "comment": "This perfume has a rich, traditional scent that reminds me of Indian attars. A must-have for fragrance lovers!"
+      },
+      {
+        "name": "Simran Kaur",
+        "rating": 5,
+        "comment": "I receive so many compliments whenever I wear this perfume! The fruity and musky combination is simply divine."
+      },
+      {
+        "name": "Aditya Deshmukh",
+        "rating": 4,
+        "comment": "A beautifully crafted fragrance with a mix of citrus and vanilla. Feels fresh yet warm at the same time."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vince Camuto",
+    "caption": "Vince Camuto Floreale Eau de Parfum 100ml",
+    "price": "6,750",
+    "description": "Floreale is an intense floral scent for women from the design house of Vince Camuto. At the start of this 2021 scent are notes from pomelo and pink pepper. The center is captivating with notes from pink peony and orchid, while the base features hints from cedar and vanilla.",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F6%2F0%2F608940582107_1_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F6%2F0%2F608940582107_2.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F6%2F0%2F608940582107_5.webp&w=1080&q=75"
+    ],
+
+    "reviews": [
+      {
+        "name": "Pooja Nair",
+        "rating": 3,
+        "comment": "Nice perfume with a pleasant floral aroma, but I wish it had better longevity. Works best for short events."
+      },
+      {
+        "name": "Vikram Sinha",
+        "rating": 5,
+        "comment": "A classic scent with deep, rich oud notes. Perfect for evening wear!"
+      },
+      {
+        "name": "Meera Reddy",
+        "rating": 4,
+        "comment": "Such a delightful fragrance! It has a hint of roses and a warm amber undertone."
+      },
+      {
+        "name": "Rajesh Patil",
+        "rating": 5,
+        "comment": "Strong and long-lasting, this perfume gives me confidence throughout the day."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Valmont",
+    "caption": "Collezione Privata Lady Code by Valmont Eau de Parfum 100ml",
+    "price": "22,750",
+    "description": "A delightful floral perfume perfect for any occasion.",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F7%2F6%2F7612535520118_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F7%2F6%2F7612535520118_2.webp&w=1080&q=75"
+    ],
+    "reviews": [
+      {
+        "name": "Ananya Joshi",
+        "rating": 4,
+        "comment": "Sweet and elegant! The lavender and musk balance each other beautifully."
+      },
+      {
+        "name": "Manish Kapoor",
+        "rating": 3,
+        "comment": "Great for a few hours, but I wish the scent lasted longer on my skin."
+      },
+      {
+        "name": "Rhea Chatterjee",
+        "rating": 5,
+        "comment": "Exquisite floral notes with a touch of spice! Feels luxurious and unique."
+      },
+      {
+        "name": "Siddharth Rao",
+        "rating": 4,
+        "comment": "A versatile perfume with fresh citrus and woody base notes. Great for daily wear."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rochas",
+    "caption": "Eau de Rochas Fraiche Eau De Toilette 100ml",
+    "price": "6,400",
+    "description": "Latest jewel in the collection, Eau de Rochas Fraîche trails a sea breeze in its fragrant Floral Fresh wake. A captivating interpretation of the original, accented with a fresh blue sparkle that is reflected in its intense indigo bottle. This fresh version of the original Eau de Rochas alternates ice and fire, wide open seas and sun-drenched shore.",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F3%2F3386460076326_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F3%2F3386460076326_2.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F3%2F3386460076326_2.webp&w=1080&q=75"
+    ],
+    "reviews": [
+      {
+        "name": "Priya Menon",
+        "rating": 5,
+        "comment": "A bold and sensual fragrance that lingers beautifully throughout the day."
+      },
+      {
+        "name": "Amit Saxena",
+        "rating": 4,
+        "comment": "Light and refreshing! The citrus top notes make it feel so energizing."
+      },
+      {
+        "name": "Tanya Bansal",
+        "rating": 3,
+        "comment": "It smells wonderful but fades a little faster than expected. Would reapply mid-day."
+      },
+      {
+        "name": "Arjun Prasad",
+        "rating": 5,
+        "comment": "A rich mix of oud, saffron, and vanilla makes this my favorite perfume ever!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Valentino",
+    "caption": "Valentino Valentina Female Eau De Parfum 80ml",
+    "price": "9,600",
+    "description": "Valentina is a modern and bold fragrance to fully express your singular femininity. Valentina is a chypre floral fragrance. A perfect balance between the liveliness of bergamot essence, the fruity pairing of strawberry notes, and the bold sensuality of orange blossom absolute and patchouli essence. An intimate celebration of irreverence and femininity.",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3614272731929_1_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3614272731929_2_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3614272731929_3_1.webp&w=1080&q=75"
+    ],
+    "reviews": [
+      {
+        "name": "Kavya Pillai",
+        "rating": 4,
+        "comment": "Delicate yet powerful! The jasmine and vanilla combination is divine."
+      },
+      {
+        "name": "Rahul Bajaj",
+        "rating": 5,
+        "comment": "A sophisticated blend of spices and musk. Smells luxurious and high-end."
+      },
+      {
+        "name": "Sneha Kulkarni",
+        "rating": 4,
+        "comment": "A beautifully balanced fragrance with floral and earthy tones. Love it!"
+      },
+      {
+        "name": "Varun Chopra",
+        "rating": 3,
+        "comment": "A pleasant everyday scent, but I was expecting it to last longer."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gucci",
+    "caption": "Gucci Guilty Pour Femme Eau De Parfum 150ml",
+    "price": "14,400",
+    "description": "Created for a true libertine who is completely free, Gucci Guilty Pour Femme is a rich and noble Ambery Floral with citrus Mandora layered with Lilac and a deep duet of Patchouli Oils.",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3616303463267_1_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3616303463267_2_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3616303463267_3_1.webp&w=1080&q=75"
+    ],
+    "reviews": [
+      {
+        "name": "Divya Shetty",
+        "rating": 5,
+        "comment": "This perfume makes me feel confident and elegant. A must-have in my collection!"
+      },
+      {
+        "name": "Yash Jain",
+        "rating": 4,
+        "comment": "A well-blended perfume that is neither too strong nor too light. Just perfect!"
+      },
+      {
+        "name": "Neelam Dutta",
+        "rating": 5,
+        "comment": "A rich, creamy vanilla scent with a touch of floral freshness. Absolutely love it!"
+      },
+      {
+        "name": "Harsh Gupta",
+        "rating": 4,
+        "comment": "A great unisex fragrance with a mix of woody and fresh citrus notes."
+      },
+      {
+        "name": "Swati Aggarwal",
+        "rating": 3,
+        "comment": "A decent perfume, but the scent is a bit too mild for my liking."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "YVES ROCHER",
+    "caption": "Yves Rocher Comme Une Evidence L'Eau Eau De Toilette 75ml",
+    "price": "1,295",
+    "description": "This fresh, delicate and light eau de toilette is a new version of Comme une Evidence, which envelops you in serenity and moments ",
+    "imageSrc": [
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3660005281902_1.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3660005260914_2.webp&w=1080&q=75",
+      "https://www.parcos.com/_next/image?url=https%3A%2F%2Fprod.parcoscom.hyperx.cloud%2Fmedia%2Fcatalog%2Fproduct%2F3%2F6%2F3660005260914_4.webp&w=1080&q=75"
+    ],
+    "reviews": [
+      {
+        "name": "Karan Mathur",
+        "rating": 5,
+        "comment": "Smells heavenly! A combination of patchouli, amber, and vanilla makes it addictive."
+      },
+      {
+        "name": "Shruti Bhatt",
+        "rating": 4,
+        "comment": "I love how this perfume settles into a warm, soft floral scent over time."
+      },
+      {
+        "name": "Vikas Nair",
+        "rating": 5,
+        "comment": "An elegant and masculine fragrance with hints of cedarwood and leather."
+      },
+      {
+        "name": "Anjali Mehta",
+        "rating": 4,
+        "comment": "The perfect combination of fresh, floral, and woody notes. Smells amazing!"
+      }
+    ]
+  }
+]
